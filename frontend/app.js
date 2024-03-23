@@ -79,7 +79,7 @@ let normalday = false;
 //event listner for when the page is loaded 
 
 window.onload = () => {
-  const baseUrl ="http://18.222.231.148:8000" 
+  const baseUrl ="http://18.220.110.232:8000" 
     // Just shows that the page is fully loaded 
     console.log("page is fully loaded");
     //checks any ip address 
